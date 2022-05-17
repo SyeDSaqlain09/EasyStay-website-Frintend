@@ -1,0 +1,47 @@
+.logo {
+    width: 80px;
+    height: 50px;
+
+}
+
+.signin {
+    background: #810709;
+    border-radius: 0px;
+    border: #810709;
+    color: white;
+}
+
+.buttons {
+    margin-right: 20px;
+}
+
+.navbar {
+    width: 100%;
+}
+
+.navbar>ul>li {
+    display: block;
+    background: #810709;
+    color: white;
+    padding: 30px 75px 30px 75px;
+   
+    list-style-type: none;
+    text-decoration: none !important;
+}
+
+.navbar>ul>li>a{
+    color: #fff;
+}
+
+.navbar>ul {
+    background: #810709;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 0px;
+    margin-bottom: 0;
+}
+
+.background {
+    background: #810709;
+}
